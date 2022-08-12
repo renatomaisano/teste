@@ -1,0 +1,195 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Sahitya&display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=SF+Pro+Text&display=swap" rel="stylesheet" /></head><body><div class="v4_21"><div class="v4_77"></div><div class="v4_63"><div class="v4_64"></div><div class="v4_65"></div><div class="v4_66"></div></div><span class="v4_67">@residenciaemfisioterapia</span><div class="v4_68"><div class="v4_69"><div class="v4_70"></div></div><div class="v4_71"><div class="v4_72"></div></div><div class="v4_73"><div class="v4_74"></div></div><div class="v4_75"><div class="v4_76"></div></div></div><span class="v4_78">Residência em Fisioterapia</span><span class="v4_79">O perfil que mais entende de residÊncia em Fisioterapia</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v4_21 {
+  width: 100%;
+  height: 1280px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_77 {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(rgba(0,0,0,0.699999988079071), rgba(0,0,0,0.10000000149011612));
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 117px;
+}
+.v4_63 {
+  width: 29px;
+  height: 32px;
+  background: url("../images/v4_63.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 441px;
+  left: 247px;
+  overflow: hidden;
+}
+.v4_64 {
+  width: 29px;
+  height: 4px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.v4_65 {
+  width: 29px;
+  height: 4px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  left: 0px;
+}
+.v4_66 {
+  width: 17px;
+  height: 4px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 27px;
+  left: 0px;
+}
+.v4_67 {
+  width: 170px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1103px;
+  left: 242px;
+  font-family: Sahitya;
+  font-weight: Bold;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-90deg);
+}
+.v4_68 {
+  width: 46px;
+  height: 477px;
+  background: url("../images/v4_68.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 675px;
+  left: 232px;
+  overflow: hidden;
+}
+.v4_69 {
+  width: 27px;
+  height: 27px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_70 {
+  width: 10px;
+  height: 20px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 9px;
+}
+.v4_71 {
+  width: 19px;
+  height: 19px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 51px;
+  left: 4px;
+  overflow: hidden;
+}
+.v4_72 {
+  width: 19px;
+  height: 19px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.v4_73 {
+  width: 22px;
+  height: 24px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 96px;
+  left: 3px;
+  overflow: hidden;
+}
+.v4_74 {
+  width: 18px;
+  height: 14px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 2px;
+}
+.v4_75 {
+  width: 32px;
+  height: 33px;
+  background: url("../images/v4_75.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 444px;
+  left: 15px;
+  overflow: hidden;
+}
+.v4_76 {
+  width: 32px;
+  height: 33px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v4_78 {
+  width: 541px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 237px;
+  left: 178px;
+  font-family: Sahitya;
+  font-weight: Bold;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_79 {
+  width: 478px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 356px;
+  left: 178px;
+  font-family: SF Pro Text;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+</style>
